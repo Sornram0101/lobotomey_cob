@@ -1,0 +1,22 @@
+{
+  "monsters": [
+    {
+      "id": "O-01-45",
+      "name": "One Sin and Hundreds of Good Deeds",
+      "risk_level": "ZAYIN",
+      "max_counter": 1
+    },
+    {
+      "id": "T-01-31",
+      "name": "Happy Teddy Bear",
+      "risk_level": "TETH",
+      "max_counter": 2
+    },
+    {
+      "id": "F-02-70",
+      "name": "Big Bird",
+      "risk_level": "WAW",
+      "max_counter": 3
+    }
+  ]
+}
